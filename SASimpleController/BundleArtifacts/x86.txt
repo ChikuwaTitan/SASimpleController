@@ -1,0 +1,2 @@
+MainPackage=C:\Users\seisy\Desktop\work\SASimpleController\SASimpleController\bin\x86\Release\SASimpleController_0.4.0.0_x86.msix
+SymbolPackage=C:\Users\seisy\Desktop\work\SASimpleController\SASimpleController\obj\x86\Release\Symbols\SASimpleController_0.4.0.0_x86.appxsym

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\seisy\Desktop\gitWork\gitRepos\SASimpleController\SASimpleController\bin\x64\Release\SASimpleController_0.4.0.0_x64.msix
+SymbolPackage=C:\Users\seisy\Desktop\gitWork\gitRepos\SASimpleController\SASimpleController\obj\x64\Release\Symbols\SASimpleController_0.4.0.0_x64.appxsym
